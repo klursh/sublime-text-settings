@@ -1,0 +1,15 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/Solarized-ocean (SL).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
